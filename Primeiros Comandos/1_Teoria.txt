@@ -1,0 +1,33 @@
+Comentários
+
+# - simples de uma linha
+
+'''
+multiplo - de varias linhas
+'''
+
+################################################
+
+FUNÇÂO "PRINT"
+--> utilizada para escrever na tela
+EX:
+	print ("Olá Mundo!")
+	print ('Tchau')
+obs: pode ser usado aspas simples ou duplas
+
+################################################
+
+print (7 + 4) #11 - operação de soma
+-> resultados diferentes
+print ('7' + '4') #74 - concatenação (pode ser usado a virgula
+
+
+################################################
+
+Receber algo do usuario
+INPUT
+
+variavel1 = input('Receber algo1')
+variavel2 = input('Receber algo2')
+
+print(variavel1, variavel2)
